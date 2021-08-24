@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  padding: 5%;
+}
+td {
+  border-bottom: 1px black ridge;
+  padding-left: 6%;
+}
+
+.operation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+button {
+  border-radius: 5px;
+  background-color: rgb(209, 221, 38);
+  height: 50%;
+}
+
+th {
+  background-color: rgb(209, 221, 38);
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border: 2px ridge rgb(209, 221, 38);
+  border-radius: 100px;
+}
